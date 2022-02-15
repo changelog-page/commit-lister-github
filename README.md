@@ -1,4 +1,4 @@
-# Repository Lister - GitHub
+# Commit Lister - GitHub
 
 ## Installation
 
